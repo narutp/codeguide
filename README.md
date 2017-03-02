@@ -29,6 +29,8 @@ According to the example, we are creating two classes Bike and Splendar. Splenda
 We are calling the run method by the reference variable of Parent class.
 Since it refers to the subclass object and subclass method overrides the Parent class method, subclass method is invoked at runtime.
 
-Exercises :
+[Exercises][1]
+
+[1]:https://github.com/narutp/codeguide/tree/master/src/exercise.java
 
 Reference : http://beginnersbook.com/2013/03/polymorphism-in-java/ 
