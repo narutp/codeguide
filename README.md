@@ -31,6 +31,6 @@ Since it refers to the subclass object and subclass method overrides the Parent 
 
 [Exercises][1]
 
-[1]:https://github.com/narutp/codeguide/tree/master/src/exercise.java
+[1]:https://github.com/narutp/codeguide/tree/master/src/Exercise.java
 
 Reference : http://beginnersbook.com/2013/03/polymorphism-in-java/ 
