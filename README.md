@@ -1,7 +1,7 @@
 # Codeguide
 
 ## Polymorphism
-Definition : Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism 
+Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism 
 in OOP occurs when a parent class reference is used to refer to a child class object.
 
 In the example below, there are 2 class, A bike is a super class and a splender is a subclass of bike.
